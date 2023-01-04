@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hw\\semenar\\hw4\\w2\\w2.csproj",
+      "projectUniqueName": "D:\\hw\\home-work\\semenar\\hw4\\w2\\w2.csproj",
       "projectName": "w2",
-      "projectPath": "D:\\hw\\semenar\\hw4\\w2\\w2.csproj",
+      "projectPath": "D:\\hw\\home-work\\semenar\\hw4\\w2\\w2.csproj",
       "packagesPath": "C:\\Users\\Храсковство\\.nuget\\packages\\",
-      "outputPath": "D:\\hw\\semenar\\hw4\\w2\\obj\\",
+      "outputPath": "D:\\hw\\home-work\\semenar\\hw4\\w2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Храсковство\\AppData\\Roaming\\NuGet\\NuGet.Config"

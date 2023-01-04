@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hw\\semenar\\hw5\\gip\\gip.csproj",
+      "projectUniqueName": "D:\\hw\\home-work\\semenar\\hw5\\gip\\gip.csproj",
       "projectName": "gip",
-      "projectPath": "D:\\hw\\semenar\\hw5\\gip\\gip.csproj",
+      "projectPath": "D:\\hw\\home-work\\semenar\\hw5\\gip\\gip.csproj",
       "packagesPath": "C:\\Users\\Храсковство\\.nuget\\packages\\",
-      "outputPath": "D:\\hw\\semenar\\hw5\\gip\\obj\\",
+      "outputPath": "D:\\hw\\home-work\\semenar\\hw5\\gip\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Храсковство\\AppData\\Roaming\\NuGet\\NuGet.Config"

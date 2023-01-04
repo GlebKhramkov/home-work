@@ -1,0 +1,15 @@
+D:\hw\home-work\semenar\hw1\w4\bin\Debug\net6.0\w4.exe
+D:\hw\home-work\semenar\hw1\w4\bin\Debug\net6.0\w4.deps.json
+D:\hw\home-work\semenar\hw1\w4\bin\Debug\net6.0\w4.runtimeconfig.json
+D:\hw\home-work\semenar\hw1\w4\bin\Debug\net6.0\w4.dll
+D:\hw\home-work\semenar\hw1\w4\bin\Debug\net6.0\w4.pdb
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.csproj.AssemblyReference.cache
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.AssemblyInfoInputs.cache
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.AssemblyInfo.cs
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.csproj.CoreCompileInputs.cache
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.dll
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\refint\w4.dll
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.pdb
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\w4.genruntimeconfig.cache
+D:\hw\home-work\semenar\hw1\w4\obj\Debug\net6.0\ref\w4.dll

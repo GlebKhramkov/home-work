@@ -1,33 +1,22 @@
-﻿//Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечетных позициях.
-//[3, 7, 23, 12] => 19
-//[-4, -6, 89, 6] => 0
-Console.WriteLine("Введите размер массива  ");
-int size = Convert.ToInt32(Console.ReadLine());
-int[] numbers = new int[size];
-FillArrayRandomNumbers(numbers);
-Console.WriteLine("массив: ");
-PrintArray(numbers);
-int sum = 0;
-
-for (int z = 0; z < numbers.Length; z+=2)
-    sum = sum + numbers[z];
-
-    Console.WriteLine($"всего {numbers.Length} чисел, сумма элементов cтоящих на нечётных позициях = {sum}");
-
-void FillArrayRandomNumbers(int[] numbers)
-{
-    for(int i = 0; i < numbers.Length; i++)
+﻿ class Program
+    {
+        static void Main(string[] args)
         {
-            numbers[i] = new Random().Next(1,10);
+            Random rnd = new Random();
+            int[] d = new int[30];
+            int max=0, min=100;
+            for (int i = 0; i<d.Length; i++ )  d[i] = rnd.Next(100);
+            for (int i = 0; i < d.Length; i++)
+            {
+                if (d[i] > max) max = d[i];
+                if (d[i] < min) min = d[i];
+            }
+           
+               for (int i = 0; i < d.Length; i++) Console.Write(" "+d[i]);//выводим массив
+               Console.WriteLine();
+                 Console.WriteLine("max:  " + max);
+                 Console.WriteLine("min  " +min);
+                 Console.WriteLine("Разница максимального и минимального:  "+(max - min));
+                Console.ReadKey();
         }
-}
-void PrintArray(int[] numbers)
-{
-    Console.Write("[ ");
-    for(int i = 0; i < numbers.Length; i++)
-        {
-            Console.Write(numbers[i] + " ");
-        }
-    Console.Write("]");
-    Console.WriteLine();
-}
+    }

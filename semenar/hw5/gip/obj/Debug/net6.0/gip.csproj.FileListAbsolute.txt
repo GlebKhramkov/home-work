@@ -1,0 +1,5 @@
+D:\hw\home-work\semenar\hw5\gip\obj\Debug\net6.0\gip.csproj.AssemblyReference.cache
+D:\hw\home-work\semenar\hw5\gip\obj\Debug\net6.0\gip.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw\home-work\semenar\hw5\gip\obj\Debug\net6.0\gip.AssemblyInfoInputs.cache
+D:\hw\home-work\semenar\hw5\gip\obj\Debug\net6.0\gip.AssemblyInfo.cs
+D:\hw\home-work\semenar\hw5\gip\obj\Debug\net6.0\gip.csproj.CoreCompileInputs.cache

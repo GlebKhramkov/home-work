@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hw\\semenar\\hw5\\w2\\w2.csproj": {}
+    "D:\\hw\\home-work\\semenar\\hw5\\w2\\w2.csproj": {}
   },
   "projects": {
-    "D:\\hw\\semenar\\hw5\\w2\\w2.csproj": {
+    "D:\\hw\\home-work\\semenar\\hw5\\w2\\w2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hw\\semenar\\hw5\\w2\\w2.csproj",
+        "projectUniqueName": "D:\\hw\\home-work\\semenar\\hw5\\w2\\w2.csproj",
         "projectName": "w2",
-        "projectPath": "D:\\hw\\semenar\\hw5\\w2\\w2.csproj",
+        "projectPath": "D:\\hw\\home-work\\semenar\\hw5\\w2\\w2.csproj",
         "packagesPath": "C:\\Users\\Храсковство\\.nuget\\packages\\",
-        "outputPath": "D:\\hw\\semenar\\hw5\\w2\\obj\\",
+        "outputPath": "D:\\hw\\home-work\\semenar\\hw5\\w2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Храсковство\\AppData\\Roaming\\NuGet\\NuGet.Config"
